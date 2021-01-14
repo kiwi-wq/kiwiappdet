@@ -1,6 +1,6 @@
 [
   {
-    "ارور": "آپدیت نیاز دارد",
-    "لینک": "https://s16.picofile.com/d/8421319550/6bd224a9-ccee-4098-8250-dbebd3426f13/Kiwi_1_0.apk"
+    "ارور": "آ",
+    "لینک": "https://s16.picofile.com/d/8421326642/3612c05f-a9bb-4b4a-aeab-f674d602cd45/Kiwi_1_0.apk"
   }
 ]
